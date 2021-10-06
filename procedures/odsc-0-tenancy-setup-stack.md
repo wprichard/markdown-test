@@ -150,6 +150,6 @@ This stack template configured the following resources in the **DataScienceHOL**
 
 TODO - Add user to group DataScienceGroup??
 
-You are now ready to begin the Data Science workshop. You may [proceed to the next lab](procedures/odsc-1-intro.md).
+You are now ready to begin the Data Science workshop. You may [proceed to the next lab](odsc-1-intro.md).
 
-[Table of Contents](README.md)
+[Table of Contents](./README.md)
